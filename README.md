@@ -1,8 +1,8 @@
 # 笔记
 
 ## Introduction
-- 这里整理了一些文章.
-    - 
-- gitbook
-- github 
-    - 笔记
+- 整理的软硬件使用技巧.
+	* [GitHub](GitHub.md)
+	* [Markdown](Markdown.md)
+	* [WorkFlowy](WorkFlowy.md)
+ 
